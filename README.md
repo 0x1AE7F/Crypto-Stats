@@ -1,6 +1,22 @@
 # Crypto-Stats
 This Python Script shows informations about Crypto-Currencies
 
+Information:
+
+This Script is getting the Infos from: 
+
+https://coinmarketcap.com/
+
+It displays stats for:
+    
+    Bitcoin
+    
+    Ethereum
+    
+    Binance Coin
+    
+    Tether
+
 Instruction:
 
 0:  Have python and:
@@ -11,14 +27,10 @@ Instruction:
     
     pip install requests
 
-1:  Run the Universal_Spammer.py
+1:  Run the Crypto-Stats.py
 
-2:  Enter the stuff asked
+2:  Wait a bit
 
-3:  Click on Start Spamming (It may lag a lot) and click on the Input field you want to spam
+3:  The Stats will be displayed in the python console
 
-Alternative: Use the button "Anti-Lag" to reduce lag while spamming
-
-4:  Do not switch windows till it finished Spamming because other fields could be spammed too
-
-5:  Have Fun!
+4:  Have Fun!
