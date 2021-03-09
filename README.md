@@ -27,7 +27,7 @@ Instruction:
     
     pip install requests
 
-1:  Run the Crypto-Stats.py
+1:  Run the BTC-prices.py
 
 2:  Wait a bit
 
